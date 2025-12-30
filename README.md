@@ -1,3 +1,8 @@
+<div align="center">
+  
+  [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+  
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,js,ts,html,css,tailwind,php,java,react,nodejs,wordpress,figma,git,github,linux,vscode" />
@@ -22,4 +27,4 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/mfrazy) 
 
   
- (https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+ 
