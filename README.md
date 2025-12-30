@@ -1,8 +1,4 @@
-<div align="center">
-  
-  [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
-  
-</div>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,js,ts,html,css,tailwind,php,java,react,nodejs,wordpress,figma,git,github,linux,vscode" />
