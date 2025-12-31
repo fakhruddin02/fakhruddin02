@@ -12,11 +12,11 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=fakhruddin01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=fakhruddin02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=fakhruddin01&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fakhruddin02&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhruddin01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhruddin02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
   ## BUY ME A COFEE
