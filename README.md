@@ -69,7 +69,7 @@ I value <b>clean code, problem-solving, teamwork</b>, and continuous learning.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=000000&width=900&lines=Go+•+Python+•+HTML+•+CSS+•+JavaScript+•+PHP+•+MySQL+•+Git" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FFFFFF&width=900&lines=Go+•+Python+•+HTML+•+CSS+•+JavaScript+•+PHP+•+MySQL+•+Git" />
 </p>
 
 ---
