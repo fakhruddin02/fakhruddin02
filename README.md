@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Fakhruddin+Razy!;Software+Engineering+Student;Web+Developer;Learning+Go+%26+Python+Data+Management"
+    src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+MD+Fakhruddin+Razy!;Software+Engineering+Student;Web+Developer;Learning+Go+%26+Python+Data+Management"
     style="max-width:100%;"
   />
 </h1>
@@ -30,7 +30,7 @@
 <td width="60%" valign="top">
 
 <p>
-I am <b>Fakhruddin Razy</b>, a <b>Software Engineering student</b> with hands-on experience in 
+I am <b>MD Fakhruddin Razy</b>, a <b>Software Engineering student</b> with hands-on experience in 
 <b>web development</b> and a growing interest in <b>backend systems and data-driven applications</b>.
 </p>
 
@@ -92,12 +92,13 @@ I value <b>clean code, problem-solving, teamwork</b>, and continuous learning.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fakhruddin02&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fakhruddin02&theme=tokyonight" />
 </p>
-****
+
 
 <p align="center">
   <img height="200px" src="https://nirzak-streak-stats.vercel.app/?user=fakhruddin02&theme=tokyonight" />
 </p>
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
+  “Programs must be written for people to read, and only incidentally for machines to execute.”
+  — Harold Abelson
 </p>
