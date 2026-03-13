@@ -1,12 +1,12 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+MD+Fakhruddin+Razy!;Software+Engineering+Student;Web+Developer;Learning+Go+%26+Python+Data+Management"
+    src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+MD+Fakhruddin+Razy!;Software+Engineer;Web+Developer;"
     style="max-width:100%;"
   />
 </h1>
 
 <p align="center">
-  🌐 Software Engineering Student | Web Developer | Go & Python Learner
+  🌐 Software Engineer | Web Developer | 
 </p>
 
 <p align="center">
